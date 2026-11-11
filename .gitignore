@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 .idea
+
+# Secrets & runtime state
+.env
+.data/
