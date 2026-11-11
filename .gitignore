@@ -13,3 +13,8 @@ wheels/
 # Secrets & runtime state
 .env
 .data/
+
+# IDE & tool local data
+.idea/
+.openidea/
+.workbuddy/
